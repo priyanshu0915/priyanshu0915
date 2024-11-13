@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics circuit, space tech and teaching  
 - 🌱 I’m currently pursuing B.tech in Electronics and Communication.
 - 💞️ I’m looking to collaborate with ppl with similar interests to explore new opportunities and projects.
-- 📫 Feel free to contact me through linkedin or email. Excited to connect with ppl.
+- 📫 You can reach me via email or LinkedIn.I'm excited to connect with people.
 - 😄 Pronouns: He/Him
   
 
