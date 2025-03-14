@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing B.tech in Electronics and Communication.
 - 💞️ I’m looking to collaborate with ppl with similar interests to explore new opportunities and projects.
 - 📫 You can reach me via email or LinkedIn.I'm excited to connect with people.
-- 😄 Pronouns: He/Him
+
   
 
 <!---
