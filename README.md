@@ -34,7 +34,7 @@ I’m actively looking to connect and collaborate on:
 - Open-source **SystemVerilog / VHDL IP cores** and verification testbenches
 - **FPGA acceleration** for DSP, communications, or quantum readout workloads
 - **Open-source EDA workflows** (ngspice, GHDL, Yosys/OpenLane)
-- Research projects in **VLSI design** or **quantum cryptography**
+- Research projects in **VLSI design** or **micro electronics**
 
 ---
 
