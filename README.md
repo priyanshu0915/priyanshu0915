@@ -20,7 +20,7 @@ I’m an **M.E. student in VLSI and Microelectronics Design** at The Maharaja Sa
 ---
 
 ### 📌 Highlighted Projects
-*(Tip: Replace the bracketed links below with your actual repository URLs)*
+
 
 - **[FPGA Multi-Qubit Readout Pipeline](#)** — Bit-accurate fixed-point SystemVerilog/VHDL architecture simulated and verified in Vivado for multiplexed quantum readout datasets.
 - **[Quantum Visual Secret Sharing](#)** — Quantum cryptography protocol exploration and simulation built with Python and IBM Qiskit.
